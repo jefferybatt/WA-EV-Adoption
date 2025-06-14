@@ -22,10 +22,8 @@ Analyzed electric vehicle (EV) registration data from Washington State using Pos
 ![BEV vs. PHEV](bev_vs_phev.png)
 
 ## Files
-- `wa_ev_analysis.sql`: SQL queries
-- `clean_csv.py`: Python cleaning script
-- `EV visuals.py`: Visualization script
-- `visualizations/`: Charts
+- `wa_ev_analysis.sql`: SQL queries 
+- `visualizations`: Charts
 
 ## Setup
 1. Install PostgreSQL/pgAdmin and Python (`pandas`, `matplotlib`).

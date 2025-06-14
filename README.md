@@ -16,10 +16,10 @@ Analyzed electric vehicle (EV) registration data from Washington State using Pos
 - **BEV vs. PHEV**: BEVs are 73.2% of WA Evs and PHEVs are 26.8%
 
 ## Visualizations
-![Top Counties by EVs](visualizations/top_counties_evs.png)
-![Top Counties by Percentage](visualizations/top_counties_percent.png)
-![EV Growth by Year](visualizations/ev_growth_by_year.png)
-![BEV vs. PHEV](visualizations/bev_vs_phev.png)
+![Top Counties by EVs](/top_counties_evs.png)
+![Top Counties by Percentage](top_counties_percent.png)
+![EV Growth by Year](ev_growth_by_year.png)
+![BEV vs. PHEV](bev_vs_phev.png)
 
 ## Files
 - `wa_ev_analysis.sql`: SQL queries
